@@ -54,7 +54,7 @@ This project utilizes two public datasets for training and evaluation:
 
 ### 📌 FRAIWAN Respiratory Dataset
 
-- **Source**: Dr. Abdulrahman Fraiwan et al.
+- **Source**: Mohammad Fraiwan et al.
 - **Access**: [FRAIWAN Dataset](https://www.sciencedirect.com/science/article/pii/S2352340921001979)
 - **Description**:
   - Labeled recordings of **normal**, **wheeze**, **crackle**, and **stridor**
