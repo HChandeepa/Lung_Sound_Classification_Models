@@ -1,4 +1,4 @@
-# PulmoSense AI: Lung Sound Classification using Deep Learning
+# Lung Sound Classification using Deep Learning
 
 PulmoSense AI is a comprehensive lung sound classification system designed to identify respiratory conditions (e.g., wheeze, crackle) through deep learning techniques applied to audio signals. This project includes data preprocessing, augmentation, feature extraction, and model development—culminating in a robust classification pipeline with ensemble learning and inference support.
 
